@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=h1, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+
+<body>
+    
+    <h1>The weather here</h1>
+    <a href="logs/json.html">list</a> <span>|</span> 
+    <a href="index.html">enter</a>
+    <h1 id="error"></h1>
+    <p>latitude <span id="latitude"></span>&deg;, longitude <span id="longitude"></span>&deg; City: <span style="font-weight: bold;" id="cityName"></span> Region: <span style="font-weight: bold;" id="regionName"></span><br> Temperature <span style="font-weight: bold;" id="temp"></span>&deg; celsius <br>
+    Measurements <br> Parameter <span id="parameter"></span> value <span id="value"></span> <br>
+    <img src="" id="weather-img"></p>
+    <label for="city">Enter City name</label>
+    <input type="text" name="city" id="city">
+    <button style="display: block; margin-bottom: 5px;" id="btn">Submit</button>
+
+    <script src="sketch.js"></script>
+    
+</body>
+
+</html>

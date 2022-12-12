@@ -1,0 +1,11 @@
+{"lat":18.98,"log":72.83,"cityName":"Mumbai","regionName":"Maharashtra","temp_c":28,"parameter":"pm25","value":53,"timestamp":1670780765315,"_id":"5D4YLcqVLmEVdN7N"}
+{"lat":13.08,"log":80.28,"cityName":"Chennai","regionName":"Tamil Nadu","temp_c":25,"parameter":"pm25","value":57,"timestamp":1670780770001,"_id":"C735QaiNJGvClLLV"}
+{"lat":26.18,"log":91.73,"cityName":"Guwahati","regionName":"Assam","temp_c":18,"parameter":"pm10","value":42,"timestamp":1670780788563,"_id":"ELat23I4XMeG2EMJ"}
+{"lat":27.25,"log":92.4,"regionName":"Arunachal Pradesh","temp_c":-3.9,"parameter":-1,"timestamp":1670780937751,"_id":"NQv97nwUF30TsZ78"}
+{"lat":38.72,"log":-9.13,"cityName":"Lisbon","regionName":"Lisboa","temp_c":19,"parameter":"um010","value":0.58,"timestamp":1670853477240,"_id":"W0amK2cbYcx4WwHy"}
+{"lat":27.25,"log":92.4,"cityName":"Bomdila","regionName":"Arunachal Pradesh","temp_c":-3.9,"parameter":-1,"timestamp":1670781032342,"_id":"cY1I2uD1BKhqcQyB"}
+{"lat":25.58,"log":91.87,"cityName":"Shillong","regionName":"Meghalaya","temp_c":11.6,"parameter":"pm10","value":42,"timestamp":1670780780268,"_id":"ekoU9P0Z9TQbxJrQ"}
+{"parameter":-1,"timestamp":1670853866485,"_id":"kyDGKz3tixGwNsam"}
+{"lat":22.57,"log":88.37,"cityName":"Kolkata","regionName":"West Bengal","temp_c":21,"parameter":"um010","value":0.76,"timestamp":1670780775437,"_id":"rbyWmLS6KXk6htsD"}
+{"lat":27.58,"log":91.87,"regionName":"Arunachal Pradesh","temp_c":2,"parameter":-1,"timestamp":1670780791434,"_id":"t5oJQvNZasS5TKQr"}
+{"lat":28.67,"log":77.22,"cityName":"Delhi","regionName":"Delhi","temp_c":17,"parameter":"pm1","value":65.7,"timestamp":1670780760714,"_id":"wn6eiNjA5Om0grDk"}
